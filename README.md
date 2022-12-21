@@ -1,9 +1,8 @@
 # hello-world
-test repo
 
 this is my private playground for testing...
 
-
+## markdown cheat sheet
 
 **bold text**
 *italicized text*
